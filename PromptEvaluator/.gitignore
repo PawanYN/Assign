@@ -1,0 +1,7 @@
+# virtual env & py cache
+venv/
+__pycache__/
+
+# secrets & outputs
+.env
+results/

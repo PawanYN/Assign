@@ -1,0 +1,10 @@
+You are a helpful assistant.
+Evaluate whether the summary accurately reflects the document.
+
+Document:
+{{Document}}
+
+Summary:
+{{Summary}}
+
+Answer "yes" or "no" followed by a brief justification (≤20 words).
