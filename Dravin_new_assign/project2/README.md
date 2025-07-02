@@ -1,4 +1,4 @@
-# Résumé‑Parser API 📄✨
+# Resume‑Parser API 📄✨
 
 A **FastAPI** microservice that reads a résumé (PDF), sends the text to OpenRouter’s GPT‑4o‑mini, and returns structured JSON data (personal details, skills, education, experience).  
 The API then exposes convenient REST endpoints for each section.
@@ -8,7 +8,7 @@ The API then exposes convenient REST endpoints for each section.
 ## Table of Contents
 1. [Features](#features)
 2. [Architecture](#architecture)
-3. [Prerequisites](#prerequisites)
+<!-- 3. [Prerequisites](#prerequisites)
 4. [Setup](#setup)
 5. [Environment Variables](#environment-variables)
 6. [Running the App](#running-the-app)
@@ -16,7 +16,7 @@ The API then exposes convenient REST endpoints for each section.
 8. [Project Structure](#project-structure)
 9. [Troubleshooting](#troubleshooting)
 10. [Roadmap / Ideas](#roadmap--ideas)
-11. [License](#license)
+11. [License](#license) -->
 
 ---
 
