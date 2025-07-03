@@ -1,0 +1,10 @@
+# virtual env & py cache
+myenv/
+__pycache__/
+test_extract_text.py
+test_parsing.py
+.git
+.gitignore
+*.log
+*.md
+!README.md
